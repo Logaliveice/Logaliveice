@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Java Python 
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : Wizarde#9255(Discord)
 
 <!---
 Logaliveice/Logaliveice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
